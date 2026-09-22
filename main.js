@@ -1,0 +1,1 @@
+window.addEventListener('load',()=>document.querySelector('.page-loader').classList.add('done'));document.querySelector('.menu').onclick=()=>document.querySelector('.nav nav').classList.toggle('open');
